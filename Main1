@@ -1,6 +1,0 @@
-Welcome to my CW1 songlist application GitHub page.
-In this project I have created a Songlist application in Java. The application allows the user to do the following things:
-1. View the songs in the songslist
-2. Add new songs to the list.
-3. Remove a song from the list.
-4. Filter the songlist via popularity.
